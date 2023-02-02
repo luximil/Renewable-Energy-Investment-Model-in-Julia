@@ -1,0 +1,4 @@
+technology,dispatchable,renewable,variable_cost,fixed_cost,eff,inv_power,inv_storage,lifetime,emission_factor,fuel_cost,surface_covered,max_surface,g_max
+diesel_generator,1,0,0,0,0.3,0,0,-1,0,2.912650602,0,0,7
+battery1,1,0,0,0,0.8,0,73143.2,10,0,0,0,0,0
+pv1,0,1,0,960,1,100000,0,25,0,0,0.004545455,27000,0
